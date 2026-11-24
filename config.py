@@ -11,6 +11,10 @@ CATEGORIES = [
     "錢包",
 
     "眼鏡",
+ 0B-r2
+ main
+
+    "外套",
  main
     "其他",
 ]
